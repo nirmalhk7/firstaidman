@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# First Aid Man
 
-You can use the [editor on GitHub](https://github.com/nirmalhk7/firstaidman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+UK charity St. John Ambulance estimates that 150,000 people could be dying without appropriate first aid treatment _every year_. Their survey found that 59% of the people would not be confident while providing First Aid. Even more shocking is the fact that 24% of the people would ignore the patient in need.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The only way to approach this is to provide First Aid that is
+1. Accessible
+1. Easy to Understand
+1. Does not leave the Good Samaritan in a confusion.
 
-### Markdown
+Most people wouldnt be searching first aid on the web or downloading first aid apps on their smartphones. So I figured that the best way to aid people with first aid treatment procedures is to:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Make an app on Google Assistant!
 
-```markdown
-Syntax highlighted code block
+The First Aid Man is a Google Assistant app providing the user with 22 different diseases of different severity (from unconsciousness to poisoning). This app makes first aid treatments only an _'Okay Google'_ away. Since there are some limitations in Dialogflow conversations, I've made use of GitHub.
 
-# Header 1
-## Header 2
-### Header 3
+## How this is better
+1. If Google Assistant works on your device, you can use First Aid Man
+1. The treatments are taken from the [Band Aid First Aid Guide](http://www.thebreakingnews.com/files/articles/band-aid-guide.pdf). So its very clear.
+1. I've tried to make it the easiest for anyone to provide treatment, and I am open for any suggestions that make it even easier. I've put symptoms and pictures to make it easier to understand. 
+ex: There are three kinds of burns: first, second and third degree. Each burn has different treatment but not many would know the difference behind all the three, and they'd end up checking the treatment for each of them. So I've provided symptoms before the treatment screens.
+1. People should be able to use this app regardless of their location. If they have network coverage, they should be able to use this app. This is also the reason why the webpages in this repo are very basic, intended to work anywhere anytime.
 
-- Bulleted
-- List
+## Links 
+1. [Bleeding- First Aid Man](https://nirmalhk7.github.io/firstaidman/bleeding.html)
+1. [Breathing Problems- First Aid Man](https://nirmalhk7.github.io/firstaidman/breathingproblems.html)
+1. [Burns and Scalds- First Aid Man](https://nirmalhk7.github.io/firstaidman/burnsScalds.html)
+1. [Chemical Burn- First Aid Man](https://nirmalhk7.github.io/firstaidman/bleeding.html)
+1. [Fracture- First Aid Man](https://nirmalhk7.github.io/firstaidman/fracture.html)
+1. [Frostbite- First Aid Man](https://nirmalhk7.github.io/firstaidman/frostbite.html)
+1. [Non Chemical Burn- First Aid Man](https://nirmalhk7.github.io/firstaidman/nonChemicalBurn.html)
+1. [Penetrating Objects- First Aid Man](https://nirmalhk7.github.io/firstaidman/penetratingObjects.html)
+1. [Poisoning- First Aid Man](https://nirmalhk7.github.io/firstaidman/poisoning.html)
+1. [Transporting An Injured- First Aid Man](https://nirmalhk7.github.io/firstaidman/transporting.html)
 
-1. Numbered
-2. List
+## Source
+I've used the treatments from the [Band Aid First Aid Guide](http://www.thebreakingnews.com/files/articles/band-aid-guide.pdf). So I've only put that info from that file into my app. I have exactly **zero** medical expertise so if anything is wrong here, all I can do is correct it. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nirmalhk7/firstaidman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-[### Support or Contact](#support)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Feedback
+[It's right here.](https://docs.google.com/forms/d/1XbJlRRAqmNgkReWT5vyueMix1JZk41s-IhZSvWb4C-k/edit)
+## Made By
+You know it. Nirmal Khedkar (nirmalhk7)
